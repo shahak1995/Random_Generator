@@ -13,19 +13,19 @@ This is used to Randomly generate API data by calling the api through HTTParty a
 ### How to use the code
 1. Put 'require relative' to the Generator class file at the top
 
-2. In order to create the object for it to be used, you would have to instanciate the generator super class by doing the following:
+2. In order to create the object for it to be used, you would have to instasiate the generator super class by doing the following code:
 
 test = Generator.new
 
-3. After this you have to instanciate the postcodes for example on the generator class into a new variable by doing the following:
+3. After this you have to instansiate the postcodes for example on the generator class into a new variable by doing the following code:
  
 test.postcodes  
 
-4. Then you can use the methods you want to use from the Generator class by executing it using the following:
+4. Then you can use the methods you want to use from the Generator class by executing it using the following code:
  
 test.random_array(random_int_value)
 
-5. Doing this example will create an array with postcodes within it with  the random_int_value in which you can put a range of what integers you want to insert to get a range. This is an example below:
+5. Doing this example will create an array with postcodes within it with  the random_int_value in which you can put a range of what integers you want to insert to get a range. This is an example below of the code:
  
 rand(2..5)
 
