@@ -27,7 +27,7 @@ test.random_array(random_int_value)
 
 5. Doing this example will create an array with postcodes within it with  the random_int_value in which you can put a range of what integers you want to insert to get a range. This is an example below:
  
-rand(1..10)
+rand(2..5)
 
 ### How to run the Code
 1. Run the terminal on the program
