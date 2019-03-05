@@ -6,9 +6,9 @@ This is used to Randomly generate API data by calling the api through HTTParty a
 * Ruby
 
 ### How to download the code
-1. Go onto the Github website
-2. Type into the search bar this repo: shahak1995/Random_Generator
-3. Once you have click the repo you have to click the clone/download button then click Download Zip
+1. Git clone 'https://github.com/shahak1995/Random_Generator
+2. Run 'bundle' in the terminal to install the gems
+3. Run 'rspec'
 
 ### How to use the code
 1. Put 'require relative' to the Generator class file at the top

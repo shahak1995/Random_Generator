@@ -24,4 +24,3 @@ class RandomPostcodes
   end
 end
 
-
